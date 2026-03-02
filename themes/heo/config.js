@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'vlog.touux.com',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '字帖、计算、控笔，给小学生家长的工具网站',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'http://lgzb.touux.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
